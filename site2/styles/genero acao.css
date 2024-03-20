@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+
+a{
+    background-color: white;
+}
+div{
+    display: flex;
+    /*para fazer a quebra de linhas das fotos o flex-wrap: wrap*/
+    flex-wrap: wrap;
+}
+
+details{
+    margin-right: 20px;
+    color: red;
+    margin-top: 12px;
+}
+
+img{
+    margin-top: 16px;
+    border: solid 5px #2f3559;
+}
+
+button{
+    position: relative;
+    bottom: 70px;
+    background-color: red;
+    border-radius: 5px;
+    border: solid 3px red;
+    cursor: pointer;
+}

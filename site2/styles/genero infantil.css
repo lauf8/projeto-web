@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    padding-left: 550px;
+    color:#ee24e9;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    width: 250px;
+    right: 200px;
+    padding: 0  0 30px 80px;
+}
+
+details{
+    padding-bottom: 100px;
+    color: #ee24e9;
+}
+
+a{
+    color: #ee24e9;
+}
+
+button{
+    position: relative;
+    bottom: 70px;
+    background-color: #ee24e9;
+    color: aqua;
+    border-radius: 5px;
+    border: solid 3px #ee24e9;
+    cursor: pointer;
+}

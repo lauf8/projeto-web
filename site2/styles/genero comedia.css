@@ -1,0 +1,40 @@
+body{
+    background-color: #f8ecff;
+}
+
+h1{
+    text-align: center;
+    color:#9a0ea1;
+}
+
+div{
+    display: flex;
+    /*para fazer a quebra de linhas das fotos o flex-wrap: wrap*/
+    flex-wrap: wrap;
+    margin-left: 90px;
+}
+
+img{
+    margin-top: 23px;
+    border: solid 5px #928ad4;
+}
+
+details{
+    margin-top: 20px;
+    margin-right: 10px;
+    color: #952bec
+}
+
+a{
+    color: hotpink;
+}
+
+button{
+    position: relative;
+    bottom: 70px;
+    background-color: #952bec;
+    color: #f8ecff;
+    border-radius: 5px;
+    border: solid 3px #952bec;
+    cursor: pointer;
+}

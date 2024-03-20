@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color:indigo;
+}
+
+p{
+    padding-left: 20px;
+    font-size: 20px;
+    color: #e45ab6;
+}
+
+a{
+    padding: 10px;
+    font-weight: bold;
+    color: #e45ab6;
+    
+}
+
+.generos{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    padding: 0 20px 20px 0;
+}
+
+.filmes{
+    text-align: center;
+}
